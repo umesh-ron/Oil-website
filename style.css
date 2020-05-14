@@ -1,0 +1,169 @@
+#title{
+    background-color:   #ffe277;
+    color:rgb(7, 7, 7);
+}
+#features
+{
+    width:100%;
+    padding-left: 50px;
+    padding-right:50px;
+    
+}
+
+h1{
+     font-family: 'Montserrat-black';
+     font-size: 2.5rem;
+     color:black;
+}
+
+
+p{
+    color:black;
+    text-align: center;
+    
+    
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+.text-align
+{
+    text-align: center;
+}
+
+.navbar-brand
+{
+    font-weight: 3rem;
+    font-size: 30px;
+    color: black;
+}
+.nav-item
+{
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 20px;
+}
+.row{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.button-padding
+{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.resize_image
+{
+    width:100%;
+}
+
+
+.image-edit{
+    padding-bottom:20px;
+    
+}
+
+
+.icon:hover
+{
+    color:grey;
+}
+#testimonials
+{
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right:50px;
+    text-align: center;  
+    background-color: #ffe277 ;
+}
+h2{
+    font-family: 'Montserrat-bold';
+    
+    color:black;
+    text-align: center;
+    font-size: 2rem;
+    
+}
+.footer-size
+{
+    font-size:1rem;
+}
+
+.testimonial-image
+{
+    width :30%;
+    padding-bottom: 30px;
+    
+}
+#press
+{
+    text-align: center;
+    background-color: #ffe277;
+    
+}
+.super-market
+{
+    border-radius: 5%;
+}
+
+#pricing
+{
+    padding-top: 20px;
+    font-family: 'Montserrat-bold';
+}
+.container
+{
+    padding-top: 20px;
+    font-family: 'Montserrat-bold';
+
+}
+
+@media (max-width:769px) {
+    .mobile-resize{
+    text-align: center;
+}
+.image-mobile
+{
+    padding-top: 20px;
+}
+}
+.cta
+{
+    text-align: center;
+   
+ 
+   
+}
+
+.button-padding{
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+  
+}
+.padding{
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.text-black
+{
+    color:black;
+}
+.text-color
+{
+    color: honeydew;
+}
+.font
+{
+    font-family: 'Helvetica Neue';
+}
+.space
+{
+    padding :20px 10px 10px;
+}
+.text-resize
+{
+    font-size: 20px;
+}
